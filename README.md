@@ -9,6 +9,6 @@ Official C++ implementation:[https://github.com/norishigefukushima/RelightingUpN
 
 # Practical Results
 ![image](readme/output.png)</br>
-![image](readme/output_afterjbf.png)</br>
+![image](readme/output_with_afterjbf.png)</br>
 
 
