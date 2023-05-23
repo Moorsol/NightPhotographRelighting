@@ -8,5 +8,7 @@ Official C++ implementation:[https://github.com/norishigefukushima/RelightingUpN
 [OpenCV-Contrib-Python](https://pypi.org/project/opencv-contrib-python/)</br>
 
 # Practical Results
+![image](readme/output.png)</br>
+![image](readme/output_afterjbf.png)</br>
 
 
